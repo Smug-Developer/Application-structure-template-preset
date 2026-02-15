@@ -1,0 +1,7 @@
+{
+    "Description": "Instructions on replacing Application name",
+    "Name": "",
+    "Replace": "€{ApplicationName}",
+    "Type": "3D",
+    "Supported devices": ["Windows", "Linux", "Xbox", "Playstation", "Android", "etc"]
+}

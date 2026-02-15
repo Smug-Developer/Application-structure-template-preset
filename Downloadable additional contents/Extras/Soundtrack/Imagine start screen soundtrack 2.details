@@ -1,0 +1,22 @@
+//filetype json
+{
+    "Description": "Basic Downloadable additional content data",
+    "Details":{
+        "Version": 0,
+        "Name": "Imagine menu soundtrack 2",
+        "Description": "",
+        "Image": "",
+        "Type": "detail"
+    },
+    "Installed": false,
+    "Enabled": false,
+    "Required":  true,
+    "Loading": {
+        "Order": 0
+    }
+    "Recommended": true,
+    "Lock": {
+        "Unlocked": true,
+        "Method": "None"
+    }
+}

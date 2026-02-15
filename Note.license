@@ -1,0 +1,12 @@
+//filetype json
+{
+    "Title": "Modular structure template & preset",
+    "Name": "Something",
+    "Version" : 0,
+    "Date": 2026,
+    "Description": "Simple note & license"
+    "Filetypes": ["json", "csv", "xml", "sgml"]
+    "Notes": [
+        "morph json & csv to xml to parse and read data?"
+    ]
+}

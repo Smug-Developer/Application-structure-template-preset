@@ -1,0 +1,6 @@
+//filetype json
+{
+    "Version": 1.0.0.0,
+    "Required": false,
+    "Endpoints": false,
+}

@@ -1,0 +1,11 @@
+{
+    "Description": "Notifications overlayed during application opened, log types and actions",
+    "Types": [
+        "Undefined",
+        "Warning",
+        "Conflict",
+        "Error",
+        "Crash"
+    ],
+    "Actions": ["Ignore", "Highlight", "Notify", "Application"]
+}

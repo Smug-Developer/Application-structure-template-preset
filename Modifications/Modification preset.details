@@ -1,0 +1,29 @@
+//filetype json
+{
+    "Description": "Basic modification data",
+    "Required": {
+        "Details":{
+            "Version": 1.0.0.0,
+            "Modification name": "",
+            "Author name": "",
+            "Description": "",
+            "Image": "",
+        },
+        "Installation": false,
+        "Default enabled": false,
+        "Loading": {
+            "Order": 0,
+            "Priority": 0
+        }
+        "Type":{
+            "Development tool": true,
+            "Difficulty adjustment": 0
+            "Overwrite": false,
+            "Addition": false,
+            "Removal": false,
+            "Replacement": false,
+        }
+    }
+    "Recommended": false,
+    "Requires verification": true,
+}
