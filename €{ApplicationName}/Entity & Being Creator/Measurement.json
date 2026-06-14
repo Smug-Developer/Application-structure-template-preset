@@ -1,0 +1,47 @@
+{
+    "Description": "Simple definitions of multiple units of measurement, alphabetical sorting would have been nice (change to better simplified alphabet sortable names later)",
+    "Units":{
+        "Mole": "Amount",
+        "Magnitude": 1000,
+        "Definitions":{
+            "Multiples":[
+                "",
+                "Mega",
+                "Kilo"
+            ],
+            "Types&affections": {
+                "Gram": "Mass",
+                "Liter": "Volume",
+                "Meter": "Length",
+                "Second": "Time",
+                "Degree Celsius": "Temperature",
+                "Watt": "Power",
+                "Volt": "Electricity",
+                "Ampere": "Current",
+                "Ohm": "Resistance",
+                "Lumen": "Luminous flux",
+                "Karma": "Standings",
+                "Money": "Currency",
+                "Intensity": "",
+                "Emotion": "",
+                "Feeling": "",
+                "Flavor": "Taste",
+                "Nutrients": "",
+                "Lethality": ""
+            },
+            "Submultiples": [
+                "Milli",
+                "Micro",
+                "Nano",
+                "Pico",
+                "Femto",
+                "Atto",
+                "Zepto",
+                "Yocto",
+                "Ronto",
+                "Quecto",
+                "Danko"
+            ]
+        }
+    }
+}

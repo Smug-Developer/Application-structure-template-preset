@@ -1,0 +1,9 @@
+{
+    "Description": "Rendering shading data style",
+    "Style": [
+        "Pixelated",
+        "Realism?",
+        "Cartoon",
+        "Anime"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Description": "Basic entity & being communication interaction methods",
+    "type": "Speech",
+    "Transcript":{
+        "Voiced": false,
+        "Lines": {
+            "Hash1": "Hi!",
+            "Hash2": "How are you?",
+            "Hash3": "Bye."
+        },
+        "Responses": {
+            "Default": "Continue.",
+            "Hash2": "Good, and you?",
+            "Hash2": "*Look into the distance*, I have to go."
+        }
+    }
+}

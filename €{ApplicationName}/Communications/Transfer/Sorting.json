@@ -1,0 +1,7 @@
+{
+    "Description": "Instance browser sorting mechanism",
+    "Order": ["Difficulty", "Connections", "Latency", "Version", "Modifications"],
+    "Mismatch": {
+        "Display": false
+    }
+}

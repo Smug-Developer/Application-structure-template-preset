@@ -1,0 +1,11 @@
+{
+    "Description": "",
+    "Digestion":{
+        "Input":{
+            "Nourishment": {
+                "Organisms": ["Carnivore", "Herbivore", "Photosynthesis", "Bacterivore", "None", "Datavore", "Electrovore"]
+            }
+    },
+    "Output":{}
+    }   
+}

@@ -1,0 +1,53 @@
+{
+    "Description": "Basic interaction and entity & being surviving mechanisms",
+    "Name": "",
+    "Type": "",
+    "Interactable": true,
+    "Interact": {
+        "Defaults": ["Use", "Pick up", "Throw", "Examine"],
+        "Book": "Read",
+        "Equiptment": "Equip",
+        "Weapon": "Throw",
+        "Potion": "Drink",
+        "Character": "Conversate",
+        "Puddle": "Fill bottle"
+    },
+    "Health":{
+        "Minimum": {
+            "Soft": 2,
+            "Hard": 0
+        },
+        "Maximum": {
+            "Soft": 21,
+            "Hard": 100
+        },
+        "Current": 21,
+        "Regenerates": -1
+    },
+    "Stamina":{
+        "Minimum": {
+            "Soft": 120,
+            "Hard": 100
+        },
+        "Maximum": {
+            "Soft": 180,
+            "Hard": 200
+        },
+        "Current": 150,
+        "Regenerates": 1
+    },
+    "Mana":{
+        "Minimum": {
+            "Soft": 120,
+            "Hard": 100
+        },
+        "Maximum": {
+            "Soft": 180,
+            "Hard": 200
+        },
+        "Current": 150,
+        "Regenerates": 1,
+        "static": true
+    },
+    "Physics": false
+}

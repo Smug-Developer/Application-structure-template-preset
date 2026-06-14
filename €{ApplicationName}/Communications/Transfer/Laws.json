@@ -1,0 +1,20 @@
+{
+    "Description": "Less likely to change compared to rules",
+    "Types": ["Instance", "Interacter"],
+    "Connections": {
+        "Minimum": {
+            "Soft": 1,
+            "Hard": 0
+        },
+        "Maximum": {
+            "Soft": 4,
+            "Hard": 4
+        },
+        "Connected": 0,
+        "Allow Connecting": false
+    },
+    "Conflicts":{
+        "Types": ["Simultanious"],
+        "Solve": "Join order"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "Description": "Basic species data properties bone types, reproduction, living conditions etc",
+    "Name": "",
+    "": ["Mammal"],
+    "Bone types": [
+        "Skeleton",
+        "Vertebrae",
+        "Invertebrae",
+        "Non Vertebrae"
+    ],
+    "Temperature": {
+        "Types": ["Degrees celsius", "Fahrenheit"],
+        "Minimum": {
+            "Soft": 1,
+            "Hard": 0
+        },
+        "Maximum":{
+            "Soft":2,
+            "Hard":3
+        }
+    },
+    "Pressure": {
+        "Minimum": {
+            "Soft": 1,
+            "Hard": 0
+        },
+        "Maximum": {
+            "Soft": 2,
+            "Hard": 3
+        }
+    },
+    "Asexual": false,
+    "Sexual": false,
+    "Reproductions": ["Egg", "Pollination", "Pregnancy", "Fission"],
+    "Types": [
+        "Humanoid",
+        "Animal",
+        "Elemental",
+        "Plant",
+        "Feathers",
+        "Fur"
+    ],
+    "Elemental": [
+        "Stone",
+        "Air",
+        "Fire",
+        "Water",
+        "Shadow"
+    ],
+    "Humanoid": [
+        "Legs",
+        "Arms",
+        "Torso",
+        "Head"
+    ],
+    "Races":[
+        "Anime",
+        "Tree",
+        "Harpy"
+    ],
+    "Skin":[
+        "Fur",
+        "Scales",
+        "Particles",
+        "Hair",
+        "Keratin",
+        "Chitin",
+        ""
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Description": "Combined data for transfer",
+    "Name": "",
+    "Character": {
+        "Name": "",
+        "Model": "",
+        "Level": "",
+        "Details": ""
+    },
+    "Location": "",
+    "Selection": "",
+    "Version": 0,
+    "Instance": {
+        "Name": "",
+        "Hash": "",
+        "Type": "",
+        "Difficulty": "",
+        "Latency": 0
+    },
+    "Modifications": {
+        "Enabled": true
+    }
+}
