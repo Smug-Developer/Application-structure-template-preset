@@ -1,0 +1,50 @@
+{
+    "FileName": "Undefined.license",
+    "FileType": "License",
+    "ParseTypes": ["json", "json5"],
+    "Author": "D",
+    "Description": "Standard Undefined License version 1.0",
+    "Notes": [
+        "Permission(s) granted unless otherwise defined in conditions.",
+        "Use translator for other languages: Deepl, bing, google, AI etc."
+    ],
+    "Version": 1.0,
+    "Date": {
+        "Year": 2026,
+        "Era": "CE common era",
+        "CalenderType": "Gregorian",
+        "Notes": [
+            "Translate to other calenders somehow."
+        ]
+    },
+    "Default":{
+        "Conditions": {
+            "Inclusions": [
+                "Same License (files, project and derivatives of this project and files must include this license)",
+                "Version 1.0 (license must include version 1.0 in a derivative of this license)",
+                "Date (license must include the date specifically year and era)"
+            ]
+        },
+        "Warnings": [
+            "Liability. (creator(s) and or contributor(s) are not liable for damages or side effects.)"
+        ],
+        "Permissions": "Permitted unless otherwise stated in conditions."
+    },
+    "--------------------------- human readability seperation string ignore during parsing /**like a note @Comment**/ ---------------------------":"--------------------------- human readability seperation string ignore during parsing /**like a note @Comment**/ ---------------------------",
+    "json documentation generation":"name: value *//json optional note @key {string} @value {string}//*",
+    "Derivative":{
+        "Description": "Derivative Undefined License (Author, License Version, Date of Creation)(optional)",
+        "Notes": [],
+        "Author": "",
+        "Version": 1.1,
+        "Date": {
+            "Year": 2026,
+            "Era": "CE common era",
+            "CalenderType": "",
+            "Notes": []
+        },
+        "Conditions": {},
+        "Limitations": [],
+        "Permissions": ""
+    }
+}
