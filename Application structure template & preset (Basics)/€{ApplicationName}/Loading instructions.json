@@ -1,0 +1,15 @@
+{
+    "Description": "Order and priorities on loading application data & content",
+    "Loading":{
+        "Order": [
+            "Application",
+            "Downloadable additional content",
+            "Modifications"
+        ],
+        "Priority": [
+            0,
+            0,
+            0
+        ]
+    }
+}

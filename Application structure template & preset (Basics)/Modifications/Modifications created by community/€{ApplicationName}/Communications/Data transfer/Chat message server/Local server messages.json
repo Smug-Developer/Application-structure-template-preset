@@ -1,0 +1,33 @@
+{
+    "Description": "Basic modification data",
+    "Required": {
+        "Details":{
+            "Version": 0,
+            "Buildnumber": 0,
+            "Modification name": "Chat messages",
+            "Author name": "",
+            "Description": "Simple server to server communication for forwarding chat messages to another connected user",
+            "Image": "",
+            "Warnings": ""
+        },
+        "Installation": false,
+        "Default enabled": false,
+        "Loading": {
+            "Order": 0,
+            "Priority": 0
+        },
+        "Type":{
+            "Development tool": false,
+            "Difficulty": {
+                "adjustment": -1
+            },
+            "Overwrite": false,
+            "Addition": true,
+            "Removal": false,
+            "Replacement": false,
+            "Fallback": false
+        }
+    },
+    "Recommended": true,
+    "Requires verification": true
+}

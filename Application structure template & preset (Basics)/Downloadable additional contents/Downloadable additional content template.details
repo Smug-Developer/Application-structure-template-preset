@@ -1,0 +1,23 @@
+//filetype json
+{
+    "Description": "Basic Downloadable additional content data",
+    "Details":{
+        "Version": 0,
+        "Name": "",
+        "Description": "",
+        "Image": "",
+        "Type": ""
+    },
+    "Installed": false,
+    "Enabled": false,
+    "Required":  false,
+    "Loading": {
+        "Order": 0,
+        "Priority": 0
+    }
+    "Recommended": true,
+    "Lock": {
+        "Unlocked": false,
+        "Method": "Default"
+    }
+}

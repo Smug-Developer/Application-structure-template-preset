@@ -1,0 +1,29 @@
+1(.0.0.0.0).0.0.0
+1      (.0.0.0.0).0          .0          .0
+release(.0.0.0.0).structuring.adjustments.other
+era.year.month.day.hour.minutes.seconds.milliseconds
+
+release(merged compact main)
+0()
+0()
+0()
+0()
+structuring(files and folders)
+adjustments(grammar)
+other(everything else)
+
+version section size 4 (how many numbers) until separator
+version section size abbrevations 1020 = 1.02k a k represents a thousand
+version section not precise = 1.3k~
+version like index
+1021 same as 1,021k
+
+v1.02k~							//ignore age of date and time
+v1,021k~     (.0.0.0.0).385        .1k~        .6	//ignore 1st century
+v1,021k      (.0.0.0.0).385        .1k~        .6	//ignore 1021 CE 03 11
+version 1021 (.0.0.0.0).0385       .1022       .0006
+version 1021 (;0;0;0;0);0385       ;1022       ;0006
+
+transforming/morphing/converting build number to version
+build number starting at 0 incrementing or decrementing by 1 or .1 with rules for moving
+think minutes once build number reaches 60 it becomes version or build number 1.0

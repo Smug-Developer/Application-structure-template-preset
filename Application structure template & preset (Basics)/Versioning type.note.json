@@ -1,0 +1,54 @@
+{
+    "Versioning type": "time",
+    "Other": ["Age", "Century", "Nanoseconds"],
+    "Date":{
+        "era": "0000",
+        "year": "0000",
+        "month": {
+            "minimum": 0,
+            "maximum": 24,
+            "display": "00",
+            "increments": "year",
+            "depends": "year"
+        },
+        "day": {
+            "minimum": 0,
+            "maximum": 24,
+            "display": "00",
+            "increments": "month",
+            "depends": "month"
+        }
+    },
+    "Time": {
+        "hour": {
+            "minimum": 0,
+            "maximum": 24,
+            "display": "00",
+            "increments": "day"
+        },
+        "minutes": {
+            "minimum": 0,
+            "maximum": 60,
+            "display": "00",
+            "increments": "hour"
+        },
+        "seconds": {
+            "minimum": 0,
+            "maximum": 60,
+            "display": "00",
+            "increments": "minutes"
+        },
+        "milliseconds": {
+            "minimum": 0,
+            "maximum": 60,
+            "display": "00",
+            "increments": "seconds"
+        }
+    },
+    "Date & Time examples": [
+        "age of date and time",
+        "1st century",
+        "1021 CE 03 11",
+        "age of date and time, 1st Century, Common era, 11th february, 14:19"
+    ]
+}
