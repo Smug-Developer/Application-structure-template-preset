@@ -1,34 +1,33 @@
-//filetype json
 {
     "Description": "Basic modification data",
     "Required": {
         "Details":{
             "Version": 0,
             "Buildnumber": 0,
-            "Modification name": "",
+            "Modification name": "Chat messages",
             "Author name": "",
-            "Description": "",
+            "Description": "Simple server to server communication for forwarding chat messages to another connected user",
             "Image": "",
-            "Warning": ""
+            "Warnings": ""
         },
         "Installation": false,
         "Default enabled": false,
         "Loading": {
             "Order": 0,
             "Priority": 0
-        }
+        },
         "Type":{
-            "Development tool": true,
-            "Difficulty: {
+            "Development tool": false,
+            "Difficulty": {
                 "adjustment": -1
             },
             "Overwrite": false,
-            "Addition": false,
+            "Addition": true,
             "Removal": false,
             "Replacement": false,
             "Fallback": false
         }
     },
-    "Recommended": false,
-    "Requires verification": true,
+    "Recommended": true,
+    "Requires verification": true
 }
