@@ -1,5 +1,6 @@
 Name: Undefined license
 Author: D
+Project: Application structure template & preset (Basics)
 Description: Permission(s) granted unless otherwise defined in conditions. 
 Notes: Use translator for other languages: Deepl, bing, google, AI etc. Translate Date and Calender to other calenders somehow.
 Version: 1.0
@@ -11,10 +12,12 @@ Warnings: Liability. (creator(s) and or contributor(s) are not liable for damage
 Permissions: Permitted unless otherwise stated in conditions.
 
 Derivative Undefined License (optional):
+Project:
+Description:
 Author:
 Version:
 Date:
 
-Permissions:
+Warnings:
 Conditions:
-Limitations:
+Permissions:

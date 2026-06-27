@@ -1,9 +1,9 @@
 {
-    "FileName": "Undefined.license",
-    "FileType": "License",
-    "ParseTypes": ["json", "json5", "tson"],
-    "Author": "D",
-    "Project": "Application structure template & preset (Basics)",
+    "FileName": "Undefined.license",        /*@value {string}*/
+    "FileType": "License",                  /*@value {string}*/
+    "ParseTypes": ["json", "tson", json5],  /*@value {array} type {string}*/
+    "Author": "D"                           : string,
+    "Project: "Application structure template & preset (Basics)",
     "Description": "Standard Undefined License version 1.0",
     "Notes": [
         "Permission(s) granted unless otherwise defined in conditions.",
@@ -32,7 +32,7 @@
         "Permissions": "Permitted unless otherwise stated in conditions."
     },
     "--------------------------- human readability seperation string ignore during parsing /**like a note @Comment**/ ---------------------------":"--------------------------- human readability seperation string ignore during parsing /**like a note @Comment**/ ---------------------------",
-    "json documentation generation":"name: value *//json optional note @key {string} @value {string}//*",
+    "json/tson documentation generation":"name: value *//json/tson optional note @value {array} @type {string}//*",
     "Derivative":{
         "Project": "",
         "Description": "Derivative Undefined License (Author, License Version, Date of Creation)(optional)",
